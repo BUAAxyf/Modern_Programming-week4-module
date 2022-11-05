@@ -1,4 +1,5 @@
 # week4-module
+[第四章作业-微调.pdf](https://github.com/BUAAxyf/week4-module/files/9943489/-.pdf)
 图是非常重要的一种数据结构，常用于描述社交网络。本次作业提供了 twitch_gamers 数据集（见在线平台课程资料 twitch_gamers.zip），希望基于该数据，构建一个 python 程序包，并在对应模块中实现：读取并存储节点信息，建立无向的社交网络，以及实现相关统计和可视化功能。
 1. 该 数 据 中 ， large_twitch_features.csv 中 每一行为一个节点 的 相 关 属 性 ，large_twitch_edges.csv 中第一行为一条边。具体详细信息请阅读 README.txt。
 2. 建立包 GraphStat，实现网络的构建、分析与可视化。其中
